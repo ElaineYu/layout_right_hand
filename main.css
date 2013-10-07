@@ -8,3 +8,32 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+header{
+  text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+nav{
+  float:right;
+}
+
+ul{
+ list-style-type:none;
+}
+
+.content{
+  padding-right:9px;
+  border-right: 1px solid gray;
+  width: 578px;
+  float:left;
+}
+
+.footer{
+  clear:both;
+  padding:10px 0;
+  border-top: 1px solid gray;
+  bottom:0;
+  width:100%;
+  padding-left: 120px;
+}
